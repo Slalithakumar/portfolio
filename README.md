@@ -34,7 +34,7 @@ Desktop application developed using Python and SQLite.
 
 ## Portfolio Link
 
-(Add your GitHub Pages link here after deployment)
+https://slalithakumar.github.io/portfolio/
 
 ## Contact
 
